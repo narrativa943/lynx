@@ -1235,6 +1235,10 @@ video {
   background-color: #40ba9c;
 }
 
+.link-researcher {
+    background-color: #000000;
+}
+
 .link-signal {
   background-color: #6364ff;
 }
