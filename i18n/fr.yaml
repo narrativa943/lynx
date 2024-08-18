@@ -3,6 +3,7 @@ link:
   apple: Apple
   bandcamp: Bandcamp
   bluesky: Bluesky
+  bookwyrm: Bookwyrm
   codepen: CodePen
   dev: DEV
   discord: Discord
@@ -14,18 +15,25 @@ link:
   github: GitHub
   gitlab: GitLab
   google: Google
+  iceshrimp: Iceshrimp
   instagram: Instagram
   keybase: Keybase
   kickstarter: Kickstarter
   lastfm: Last.fm
-  link: "Site internet"
+  lemmy: Lemmy
   linkedin: LinkedIn
-  mastodon: Mastodon
+  mastodon_perso: Mastodon perso
+  mastodon_pro: Mastodon pro
+  matrix_org: Matrix (matrix.org)
+  matrix_tedomum: Matrix (Tedomum)
   medium: Medium
   microsoft: Microsoft
+  my_website_pro: My researcher website
   orcid: ORCiD
   patreon: Patreon
+  peertube: Peertube
   pinterest: Pinterest
+  pronouns: Pronouns
   reddit: Reddit
   researchgate: ResearchGate
   slack: Slack
@@ -42,9 +50,11 @@ link:
   whatsapp: WhatsApp
   x: 𝕏
   youtube: YouTube
+  stack-exchange: Stack Exchange
+  stack-overflow: Stack Overflow
 
-# nav:
-#   home: Home
+nav:
+  home: Home
 
 footer:
-  powered_by: "Propulsé par {{ .Hugo }} &amp; {{ .Lynx }}"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Lynx }}"
