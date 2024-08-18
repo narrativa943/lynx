@@ -1152,6 +1152,10 @@ video {
   background-color: #4285f4;
 }
 
+.link-iceshrimp {
+    background-color: #48237F;
+}
+
 .link-instagram {
   background-color: #c13584;
   background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
@@ -1167,6 +1171,10 @@ video {
   background-color: #06ce78;
 }
 
+.link-lemmy {
+    background-color: #7A7A7A;
+}
+
 .link-lastfm {
   background-color: #d51007;
 }
@@ -1177,6 +1185,14 @@ video {
 
 .link-mastodon {
   background-color: #6364ff;
+}
+
+.link-matrix_org {
+    background-color: #29811A;
+}
+
+.link-matrix_tedomum {
+    background-color: #29811A;
 }
 
 .link-medium {
@@ -1191,8 +1207,16 @@ video {
   background-color: #a6ce39;
 }
 
+.link-peertube {
+    background-color: #ff9d03;
+}
+
 .link-patreon {
   background-color: #ff434d;
+}
+
+.link-pronouns {
+    background-color: #ff434d;
 }
 
 .link-pinterest {
