@@ -1,7 +1,7 @@
 # baseURL = "https://your_domain.com/"
 #languageCode = "en"
 # defaultContentLanguage = "en"
-theme = "lynx"
+# theme = "lynx"
 title = "Lynx"
 # copyright = "Copy, _right?_ :thinking_face:"
 
