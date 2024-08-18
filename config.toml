@@ -34,6 +34,7 @@ disableKinds = ["taxonomy", "term"]
     # { google = "https://www.google.com/" },
      { iceshrimp = "https://iceshrimp.spathoche.ovh/@fasija" },
      { instagram = "https://www.instagram.com/metaforica.scrp" },
+     { inventaire = "https://inventaire.io/users/spathoche" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
