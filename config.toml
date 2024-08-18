@@ -9,33 +9,43 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+   name = "Joanna"
+   headline = "Mes profils sur internet"
+   image = "author.jpg"  # path relative to static directory
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+
+
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
-    # { bluesky = "https://bsky.app/profile/username" },
+     { bluesky = "https://bsky.app/profile/spathi.bsky.social" },
+    { bookwyrm = "https://lectura.social/user/jprecioso" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
+     { facebook = "https://www.facebook.com/Joannarrativa/" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+     { iceshrimp = "https://iceshrimp.spathoche.ovh/@fasija" },
+     { instagram = "https://www.instagram.com/metaforica.scrp/" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
+    { lemmy = "https://lemmygrad.ml/u/joannarrativa_" },
+      { mastodon_perso = "https://mastodon.tetaneutral.net/@joannarrativa" },
+      { mastodon_pro = "https://social.sciences.re/@jprecioso" },
+    { matrix_org = "https://matrix.to/#/@flyingketh:matrix.org" },
+    { matrix_tedomum = "https://matrix.to/#/@0ytreza1:tedomum.net" },
+    { peertube = "https://video.tedomum.net/a/predicativa/video-channels" },
+    { pronouns = "https://pronouns.page/@jprecioso" },
     # { linkedin = "https://linkedin.com/in/username" },
-    # { mastodon = "https://mastodon.instance/@username" },
+
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
