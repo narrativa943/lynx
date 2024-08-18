@@ -1231,6 +1231,10 @@ video {
   background-color: #40ba9c;
 }
 
+.link-signal {
+  background-color: #6364ff;
+}
+
 .link-slack {
   background-color: #4a154b;
 }
