@@ -69,14 +69,14 @@ disableKinds = ["taxonomy", "term"]
     # { youtube = "https://youtube.com/username" },
   ]
 
-#[module]
-#  [module.hugoVersion]
-#    extended = false
-#    min = "0.86.1"
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
 
-[markup.highlight]
-  noClasses = false
+#[markup.highlight]
+#  noClasses = false
 
-[markup.goldmark]
-[markup.goldmark.renderer]
-  unsafe = true
+#[markup.goldmark]
+#[markup.goldmark.renderer]
+#  unsafe = true
