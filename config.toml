@@ -52,6 +52,7 @@ disableKinds = ["taxonomy", "term"]
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
     # { reddit = "https://reddit.com/user/username" },
+    { researcher = "https://jprecioso-narrativa.netlify.app/" },
     { signal = "https://signal.me/#eu/_REomCrH25c2SYbcNi26IfnrWwKZ867iws1iOF0CEQ_kkh8dun9GVaMboL_kLQtE" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
