@@ -1,6 +1,6 @@
 # baseURL = "https://your_domain.com/"
-#languageCode = "en"
-# defaultContentLanguage = "en"
+languageCode = "en"
+ defaultContentLanguage = "en"
 # theme = "lynx"
 title = "Lynx"
 # copyright = "Copy, _right?_ :thinking_face:"
