@@ -72,6 +72,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
+    { xmpp = "xmpp:riyaco@xmpp.spathoche.ovh" },
     # { youtube = "https://youtube.com/username" },
   ]
 
